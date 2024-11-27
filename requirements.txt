@@ -1,1 +1,10 @@
 streamlit
+pandas
+google-cloud-bigquery
+google-cloud-storage
+google-auth
+google-auth-oauthlib
+google-cloud
+google-cloud-core
+python-dotenv
+google-cloud-bigquery-storage
