@@ -1,5 +1,4 @@
 import streamlit as st
-<<<<<<< HEAD
 import pandas as pd
 import google.generativeai as genai
 from datetime import datetime
