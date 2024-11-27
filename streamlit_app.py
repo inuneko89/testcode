@@ -298,12 +298,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-=======
-
-st.title("🎈 My new app")
-st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
-)
->>>>>>> 4e60e54ac21cfdfdd865ddfd5c38720138ade835
