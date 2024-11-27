@@ -8,7 +8,9 @@ import hashlib
 from google.cloud import bigquery
 from google.cloud import storage
 from google.oauth2 import service_account
-
+# กำหนด path ของไฟล์ service account
+credentials = service_account.Credentials.from_service_account_file('/workspaces/testcode/test-pipeline-company-af4bb08adc36.json'
+)
 service_account_file = "/workspaces/testcode/test-pipeline-company-af4bb08adc36.json"
 
 if os.path.exists(service_account_file):
